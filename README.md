@@ -1,6 +1,6 @@
 ## 介绍
 
-该项目基于Java开发。 
+该项目基于Java开发的基金投资理财项目。 
 
 * 后端采用Spring Boot、Spring Data Jpa、Sa Token、 Redis、Mysql。
 * 前端采用uniapp跨端开发，一套代码，可发布到iOS、Android、Web（响应式）等多个平台。
